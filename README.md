@@ -2,9 +2,10 @@
 
 Streaming EWMA smoothing for metrics or prices — dependency-free.
 
-No dependencies, no service to run — just the standard library.
+TypeScript Ewma uses only the typescript standard library; there is no service or dependency to install.
 
 ```
 ewma.ts
 ```
-See the test next to the source for usage.
+
+Run the TypeScript Ewma test next to the implementation for concrete examples.
